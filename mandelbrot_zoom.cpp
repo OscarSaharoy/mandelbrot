@@ -1,3 +1,5 @@
+// Oscar Saharoy 2019
+
 #include <iostream>
 #include <complex>
 #include <cmath>
